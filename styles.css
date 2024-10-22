@@ -1,0 +1,27 @@
+/* Place your CSS styles in this file */
+body {background-color:cornsilk;
+      border:5px solid red;
+      border-radius:15px;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Times New Roman", sans-serif;
+    font-weight: normal;
+    color: purple;
+}
+
+    ul {list-style-type:none;
+    background-color:darkkhaki;
+    font-size: larger;
+    color:azure;
+    padding-left:12px;
+}
+
+li {display:inline;
+}
+
+
+img{display:block;
+    margin:auto;
+}
