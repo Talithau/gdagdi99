@@ -23,7 +23,9 @@ h2 {
     ul {list-style-type:none;
     font-size: larger;
     color:white;
-    padding-center:50px;
+    padding-left:12px;
+    text-align: center;
+    justify-content: space-between;
 }
 
 li {display:inline;
