@@ -1,7 +1,7 @@
 /* Place your CSS styles in this file */
 body {
-     background-attachment: fixed;
-     backgroud-image: url("img/bavkgr.jpg");
+     background-image: url("img/bavkgr.jpg");
+background-attachment: fixed;     
   background-size: cover;
 }
 
