@@ -26,3 +26,9 @@ li {display:inline;
 img{display:block;
     margin:auto;
 }
+
+p { 
+    text-align: center;
+    color: white;
+
+}
