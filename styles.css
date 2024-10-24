@@ -1,8 +1,8 @@
 /* Place your CSS styles in this file */
 body {
-      border:5px solid palevioletred;
-      border-radius:15px;
+     background-attachment: fixed;
      backgroud-image: url("img/bavkgr.jpg");
+  background-size: cover;
 }
 
 h1 {
