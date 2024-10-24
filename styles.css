@@ -31,13 +31,13 @@ h2 {
 li {display:inline;
 }
 
+p {
+     text-align: center;
+     color: white;
+     font-size: larger;
+}
+
 
 img{display:block;
     margin:auto;
-}
-
-p { 
-    text-align: center;
-    color: white;
-
 }
