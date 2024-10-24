@@ -21,9 +21,13 @@ h2 {
     color: white;
 
     ul {list-style-type:none;
-    font-size: larger;
-    color:blue;
-    padding-left:12px;
+    font-size: x-large;
+    color:white;
+    padding-center:50px;
+    <button class="pushable">
+    <span class="front">
+     </span>
+     </button>
 }
 
 li {display:inline;
