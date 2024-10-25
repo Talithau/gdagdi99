@@ -6,8 +6,9 @@ background-attachment: fixed;
 
 }
 
-nav ul li{
-     position:flex}
+nav ul {
+     display: flex; 
+}
 h1 {
     text-align: center;
     font-family:"sans-serif;"
