@@ -7,7 +7,7 @@ background-attachment: fixed;
 }
 
 nav {
-     background-colour:#ffffff ;
+     background-color:#ffffff ;
      display:flex;
      align-items:center;
      justify-content:space-between;
