@@ -5,6 +5,12 @@ background-attachment: fixed;
   background-size:cover;
 
 }
+nav {
+     background-colour:white;
+     display:flex;
+     align-items:center;
+     justify-content:space-between;
+     padding:1rem 2 rem;
 
 nav ul {
      display: flex;
