@@ -28,7 +28,8 @@ h2 {
     justify-content: space-between;
 }
 
-li {display:inline;
+li {
+     display:inline;
 }
 
 <p> {
