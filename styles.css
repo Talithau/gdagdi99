@@ -7,10 +7,10 @@ background-attachment: fixed;
 }
 
 nav {
-     background-color:#ffffff ;
+     background-color: #ffffff ;
      display:flex;
      align-items:center;
-     justify-content:space-between;
+     justify-content: space-between;
      padding: 1rem 2 rem;
 }
 
