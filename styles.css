@@ -16,6 +16,7 @@ nav ul {
      display: flex;
      gap:35rem;
      list-style:none;
+     font-size:7rem;
 }
 nav ul li a{
     text-decoration: none;
