@@ -11,6 +11,10 @@ nav ul {
      gap:6rem;
      list-style:none;
 }
+nav ul li a{
+    text-decoration: none;
+    color: black ;
+}
 h1 {
     text-align: center;
     font-family:"sans-serif;"
@@ -44,6 +48,7 @@ li {
 }
 
 
-img{display:block;
-    margin:auto;
+img {display: block;
+    margin: auto;
+    align-items: center;
 }
