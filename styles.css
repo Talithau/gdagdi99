@@ -24,11 +24,10 @@ nav ul {
 
 nav ul li:hover{
      background: #e5dff7
-     text-decoration: underline;
 }
  
 nav ul li a{
-    text-decoration: none;
+    text-decoration: underline;
     color: purple;
 }
 
