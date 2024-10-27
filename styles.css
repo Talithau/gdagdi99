@@ -7,7 +7,7 @@ background-attachment: fixed;
 }
 
 nav {
-     background-color: #a49edb;
+     background-color: #ffffff;
      display:flex;
      teks-align: center;
      justify-content: space-between;
@@ -32,7 +32,7 @@ nav ul li {
 }
 
 nav ul li:hover {
-     background: #d17db5;
+     background: #7f62bd;
 }
 
 nav ul li:hover a {
