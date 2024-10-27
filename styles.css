@@ -9,9 +9,12 @@ background-attachment: fixed;
 nav {
      background-color: #ffffff ;
      display:flex;
-     align-items:center;
+     text-align:center;
      justify-content: space-between;
      padding: 1rem 2 rem;
+     margin: auto;
+     width: 100%;
+     font-family: arial;
 }
 
 nav ul {
@@ -19,10 +22,28 @@ nav ul {
      gap:30rem;
      list-style:none;
      font-size:1.3rem;
+     padding: 0 20px;
+     position: relative;
+     display: inline-table;
+     width: 100%;
 }
+
+nav ul li {
+     float: center;
+}
+
+nav ul li:hover{
+     background: #d68d9a
+}
+ nav ul li:hover a {
+      color: #000;
+ }
+
 nav ul li a{
     text-decoration: none;
-    color: black ;
+    color: black;
+     display: block;
+     padding: 25px;
 }
 
 h1 {
