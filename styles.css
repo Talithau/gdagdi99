@@ -7,14 +7,11 @@ background-attachment: fixed;
 }
 
 nav {
-     background-color: #ffffff;
+     background-color: #ffffff ;
      display:flex;
-     teks-align: center;
+     align-items:center;
      justify-content: space-between;
      padding: 1rem 2 rem;
-     width: 100%;
-     font-family: arial;
-     margin: auto;
 }
 
 nav ul {
@@ -22,28 +19,10 @@ nav ul {
      gap:30rem;
      list-style:none;
      font-size:1.3rem;
-     position: relative;
-     width: 100%;
-     padding: 0 20px;
 }
-
-nav ul li {
-     float: center;
-}
-
-nav ul li:hover {
-     background: #bd7198;
-}
-
-nav ul li:hover a {
-     color: #000;
-}
-
 nav ul li a{
     text-decoration: none;
-    color: black;
-     display: block;
-     padding: 25px
+    color: black ;
 }
 
 h1 {
