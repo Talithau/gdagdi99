@@ -7,7 +7,7 @@ background-attachment: fixed;
 }
 
 nav {
-     background-color: #ffffff ;
+     background-color: #a49edb;
      display:flex;
      teks-align: center;
      justify-content: space-between;
@@ -40,11 +40,10 @@ nav ul li:hover a {
 }
 
 nav ul li a{
-    text-decoration: none;
+    text-decoration: underline;
     color: black;
      display: block;
      padding: 25px
-     text-decoration: none;
 }
 
 h1 {
