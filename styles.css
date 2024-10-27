@@ -13,7 +13,7 @@ nav {
      justify-content: space-between;
      padding: 1rem 2 rem;
      width: 100%;
-     font-family: jeepers;
+     font-family: sans serif;
      margin: auto;
 }
 
@@ -32,7 +32,7 @@ nav ul li {
 }
 
 nav ul li:hover {
-     background: #7f62bd;
+     background: #bd7198;
 }
 
 nav ul li:hover a {
