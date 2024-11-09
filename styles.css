@@ -77,18 +77,18 @@ img src {display: block;
 }
 
 footer { 
-     background-color: #1f1c2c
-     color: #F0C14B
+     background-color: #9082c4
+     color: #ffffff
      text-align: left;
      padding: 20px;
-     font-family: 'Lazybones', cursive;
+     font-family: 'Times New Roman', cursive;
      letter-spacinng: 1px;
      margin top: 50px;
  
 }
 
 footer h4 {
-     font size: 18px;
+     font size: 30px;
      margin-bottom: 10px;
      text-color: #ffffff
 }
