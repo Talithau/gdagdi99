@@ -7,7 +7,7 @@ background-attachment: fixed;
 }
 
 nav {
-     background-color: #e5dff7;
+     background-color: rgba(0,0,0,0.4
      display:flex;
      text-align:center;
      justify-content: space-between;
