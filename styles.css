@@ -75,4 +75,30 @@ img src {display: block;
     float: center;
     position: relative;     
 }
-      
+
+footer { 
+     background-color: #9082c4
+     color: #ffffff
+     text-align: left;
+     padding: 20px;
+     font-family: 'times new roman', cursive;
+     letter-spacinng: 1px;
+     margin top: 50px;
+ 
+}
+
+footer h4 {
+     font size: 18px;
+     margin-bottom: 10px;
+}
+
+footer h4 {
+     font-size: 18px;
+     margin-bottom: 10px;
+}
+
+footer p {
+     margin-top: 10px;
+     font-size: 14px;
+     color: white;
+}
