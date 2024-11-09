@@ -77,11 +77,11 @@ img src {display: block;
 }
 
 footer { 
-     background-color: #9082c4
-     color: #ffffff
+     background-color: #1f1c2c
+     color: #F0C14B
      text-align: left;
      padding: 20px;
-     font-family: 'times new roman', cursive;
+     font-family: 'Lazybones', cursive;
      letter-spacinng: 1px;
      margin top: 50px;
  
@@ -90,4 +90,5 @@ footer {
 footer h4 {
      font size: 18px;
      margin-bottom: 10px;
+     text-color: #ffffff
 }
