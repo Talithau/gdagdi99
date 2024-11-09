@@ -71,9 +71,8 @@ li {
 }
       
 img src {display: block;
-    margin: center;
+    margin: auto;
     float: center;
-    position: relative;
-    align-items: center;     
+    position: relative;     
 }
       
