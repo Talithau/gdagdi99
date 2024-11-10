@@ -48,7 +48,7 @@ h2 {
     line-height: 0.5;
 
     ul {list-style-type:none;
-    font-size: larger;
+    font-size: 70px;
     color:white;
     padding-left:12px;
     text-align: center;
@@ -62,8 +62,8 @@ h2 {
     text-color: white;
 
     ul {list-style-type:none;
-    font-size: larger;
-    color:white;
+    font-size: 50px;
+    text-color:white;
     padding-left:12px;
     text-align: center;
     justify-content: space-between;
