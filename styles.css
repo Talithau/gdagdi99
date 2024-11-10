@@ -19,7 +19,6 @@ nav ul {
      gap:30rem;
      list-style:none;
      font-size:1.3rem
-     filter: glow(color=#EEEE00,strength=3);
 }
 
 nav ul li:hover{
