@@ -32,12 +32,12 @@ nav ul li a{
 
 h1 {
     text-align: center;
-    font-family:"Times New Roman;"
+    font-family:"Sans-Serif;"
     font-weight: bold;
     color: white;
-    font-size: 90px;
+    font-size: 85px;
     filter: glow(color=#EEEE00,strength=3);
-    text-shadow: #EEEE00 0 0 10px,#FF0000 5px 5px 5px;
+    text-shadow: #EEEE00 0 0 10px,#7a4ae8 5px 5px 5px;
 }
 
 h2 {
