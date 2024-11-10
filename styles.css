@@ -79,7 +79,7 @@ img src {display: block;
     position: relative;     
 }
 
-footer {
+nav footer {
     background-color: #9082c4;
     color: #ffffff;
     text-align: left;
@@ -89,13 +89,8 @@ footer {
     margin-top: 50px;
 }
 
-footer h4 {
+nav footer h4 {
     font-size: 90px;
     margin-bottom: 10px;
     text-color: #ffffff
 }
-
-footer p {
-    margin-top: 10px;
-    font-size: 14px;
-    color: white;
