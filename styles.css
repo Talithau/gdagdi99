@@ -83,7 +83,7 @@ nav footer {
     background-color: #cfbfd9;
     color: #ffffff;
     text-align: left;
-    padding: 1rem 2 rem;
+    padding-bottom: 1rem 2 rem;
     font-family: 'Times New Roman', cursive;
     letter-spacing: 1px;
     margin-top: 70px;
@@ -93,4 +93,5 @@ nav footer h4 {
     font-size: 95px;
     margin-bottom: 10px;
     text-color: #ffffff;
+    text-align: left;
 }
