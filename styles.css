@@ -80,7 +80,7 @@ img src {display: block;
 }
 
 nav footer {
-    background-color: #9082c4;
+    background-color: #cfbfd9;
     color: #ffffff;
     text-align: left;
     padding: 20px;
@@ -90,7 +90,7 @@ nav footer {
 }
 
 nav footer h4 {
-    font-size: 90px;
+    font-size: 95px;
     margin-bottom: 10px;
-    text-color: #ffffff
+    text-color: #ffffff;
 }
