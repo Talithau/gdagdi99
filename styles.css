@@ -37,7 +37,7 @@ h1 {
     color: white;
     font-size: 85px;
     filter: glow(color=#EEEE00,strength=3);
-    text-shadow: #EEEE00 0 0 10px,#e31780 5px 5px 5px;
+    text-shadow: #EEEE00 0 0 10px,#e3175e 5px 5px 5px;
 }
 
 h2 {
