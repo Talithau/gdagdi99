@@ -3,11 +3,10 @@ body {
      background-image: url("begron2.jpeg");
 background-attachment: fixed;     
   background-size:cover;
-
 }
 
 nav {
-     background-color: #cfbfd9
+     background-color:#cfbfd9;
      display:flex;
      text-align:center;
      justify-content: space-between;
@@ -23,7 +22,7 @@ nav ul {
 }
 
 nav ul li:hover{
-     background: #c77398
+     background:#c77398;
 }
  
 nav ul li a{
