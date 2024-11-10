@@ -36,8 +36,8 @@ h1 {
     font-weight: bold;
     color: white;
     font-size: 80px;
-    filter: glow(color=#db86f7,strength=3);
-    text-shadow: #aa86f7 0 0 10px,#aa86f7 5px 5px 5px;
+    filter: glow(color=#EEEE00,strength=3);
+    text-shadow: #EEEE00 0 0 10px,#FF0000 5px 5px 5px;
 }
 
 h2 {
