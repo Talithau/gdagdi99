@@ -82,8 +82,8 @@ img src {display: block;
 }
 
 nav footer {
-    background-color: #cfbfd9;
-    color: #black;
+    background-color: #6f5d99;
+    color: white;
     text-align: left;
     padding-bottom: 1rem 2 rem;
     font-family: 'Times New Roman', cursive;
@@ -94,6 +94,6 @@ nav footer {
 nav footer h4 {
     font-size: 30px;
     margin-width: 10px;
-    text-color: #black;
+    text-color: white;
     text-align: left;
 }
