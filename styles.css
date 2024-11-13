@@ -46,8 +46,9 @@ h2 {
     font-weight: bold;
     color: white;
     line-height: 0.5;
+}
 
-    ul {list-style-type:none;
+ul {list-style-type:none;
     font-size: 70px;
     color:white;
     padding-left:12px;
@@ -60,6 +61,7 @@ h2 {
     font-family:"sans-serif;"
     font-weight: bold;
     text-color: white;
+ }
 
     ul {list-style-type:none;
     font-size: 50px;
